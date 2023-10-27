@@ -4,8 +4,10 @@
 }
 body{
   max-width: 1482px;
-  padding: 50px 80px 50px;
+  padding: 50px 80px 70px;
   margin: 0 auto;
+  border: 1px solid #E9EAF0;
+  background-color: #FFF;
 }
 .rah-header-title {
   font-family: "Roboto", sans-serif;

@@ -33,13 +33,13 @@
       .rah-award-title {
         font-size: 16px;
         margin: 5px 0 0;
-        padding: 0 5px;
+        padding: 8px 15px;
       }
       .rah-small-item-flex {
-        padding: 0 5px;
+        padding: 8px 15px;
       }
       .rah-price-details {
-        padding: 0px 5px 3px 5px;
+        padding: 8px 15px 8px 15px;
       }
       .rah-award-list{
         display: grid;
