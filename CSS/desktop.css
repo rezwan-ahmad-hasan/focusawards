@@ -6,7 +6,6 @@ body{
   max-width: 1482px;
   padding: 50px 80px 70px;
   margin: 0 auto;
-  border: 1px solid #E9EAF0;
   background-color: #FFF;
 }
 .rah-header-title {
@@ -36,6 +35,10 @@ body{
   flex-direction: column;
   justify-content: space-between;
   padding: 10px 0 0px;
+  width: 65%;
+}
+.rah-award-img{
+  width: 35%;
 }
 .rah-award-box {
   max-width: 650px;
@@ -104,7 +107,7 @@ body{
   justify-content: space-between;
   align-items: center;
   margin: 0;
-  padding: 0 18px 0 25px;
+  padding: 3px 18px 3px 25px;
 
 }
 .rah-price-details {
@@ -122,7 +125,7 @@ body{
   font-weight: 700;
   letter-spacing: -0.3px;
 }
-.rah-price-details button {
+.rah-price-details a {
   border-radius: 3px;
   background: #7ba631;
   display: flex;
@@ -135,6 +138,7 @@ body{
   font-size: 12px;
   font-weight: 400;
   border: none;
+  line-height: 22px;
 }
 .rah-award-list{
   display: grid;
