@@ -139,6 +139,7 @@ body{
   font-weight: 400;
   border: none;
   line-height: 22px;
+  text-decoration: none;
 }
 .rah-award-list{
   display: grid;
