@@ -1,0 +1,50 @@
+@media only screen and (max-width: 667px) {
+    body{
+        max-width: auto !important;
+        padding: 20px 9px !important;
+        margin: 0 auto;
+      }
+      .rah-award-img{
+        width: 100%;
+      }
+      .rah-header-title {
+        font-size: 20px;
+        text-align: center;
+      }
+      .rah-header-detail {
+        font-size: 15px;
+        text-align: center;
+      }
+      .rah-header {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: 20px;
+        gap: 20px;
+      }
+      .rah-award-box {
+        max-width: auto !important;
+        display: flex;
+        flex-direction: column !important;
+      }
+      .rah-feature-img{
+        width: 100%;
+      }
+      .rah-award-title {
+        font-size: 16px;
+        margin: 5px 0 0;
+        padding: 0 5px;
+      }
+      .rah-small-item-flex {
+        padding: 0 5px;
+      }
+      .rah-price-details {
+        padding: 0px 5px 3px 5px;
+      }
+      .rah-award-list{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr) !important;
+        row-gap: 20px;
+        column-gap: 0px;
+      }
+}
